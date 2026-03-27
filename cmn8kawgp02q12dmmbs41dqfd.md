@@ -6,7 +6,7 @@ datePublished: 2026-03-27T07:10:34.216Z
 cuid: cmn8kawgp02q12dmmbs41dqfd
 slug: how-to-install-kali-linux-on-a-secondary-drive-without-affecting-windows-wsl-performance
 cover: https://cdn.hashnode.com/uploads/covers/68386d1121b9d74a4a2d7b62/33fd35f0-ead1-441b-bd9a-fbebd944da09.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/68386d1121b9d74a4a2d7b62/a84a7b2d-db85-44b8-888f-e1489d4a6a6d.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/68386d1121b9d74a4a2d7b62/ae037d80-6756-4933-9bd4-417127532441.jpg
 tags: kali-linux, cybersecurity, wsl, windows-11, kali-linux-download, ayushhardeniya
 
 ---
